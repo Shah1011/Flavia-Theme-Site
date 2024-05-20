@@ -77,7 +77,7 @@ export default function Home(){
     />
     </div>
 
-    <a href="http://iamshah.tech" target="_blank" rel="noopener noreferrer">
+    <a href="https://iamshah.xyz" target="_blank" rel="noopener noreferrer">
     <div className="flex justify-center mt-[40px]">
       <h1 className="border border-green-500 rounded-md px-5 py-2 mb-[50px] text-slate-100 hover:bg-green-500 cursor-pointer" style={{ transitionDuration: "0.5s" }}>Made by Shah</h1>
     </div>
